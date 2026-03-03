@@ -19,7 +19,7 @@ export function Instructor() {
               <img
                 alt="Braulio Brauhaus portrait"
                 className="w-full h-full object-cover"
-                src="https://lh3.googleusercontent.com/aida-public/AB6AXuC9Aq47LEUt8oafwshmraVg8XoqIXszP424UifX0t8ITh1UhZ75VIwLUlltrNK3vm66kdAXG12QhlmaqCgqZjxR8euBUwYOu5-AeImXKBt9RZXDtpEzN0_g3LW5sjFbiNZgEcJps7iG41CTIQMEiNK_3cmxNSd_uian8AuWIyjFT-s4DBHo9GNfrxrwYFeU6JE0HUryfikckhhg8JVWql09EcvBBQEmcRsxhVnJJsqvmwT2AhzlHODmKxcWhbMgc41lBLVBGc-KXzg6"
+                src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
                 referrerPolicy="no-referrer"
               />
               <div className="absolute inset-0 bg-primary/10 mix-blend-overlay"></div>
